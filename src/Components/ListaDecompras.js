@@ -12,7 +12,7 @@ function ListaDeCompras() {
             <br></br>
             {Item.nome = "Jaboticaba"}
             <br></br>
-            {Item.nome = "MMorango"}
+            {Item.nome = "Morango"}
             <br></br>
             {Item.nome = "Pitaya"}
 
