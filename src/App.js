@@ -1,17 +1,13 @@
-import ListaDeCompras from './ListadeCompras'
+import React from "react"
+import ListaDeCompras from './Components/ListaDecompras'
+
+
 function App() {
   return (
     <div className="App">
-      <ListaDeCompras nome="arroz"/>
-      <ListaDeCompras nome="feijao"/>
-      <ListaDeCompras nome="canela"/>
-      <ListaDeCompras nome="cebola"/>
-      <ListaDeCompras nome="azeitona"/>
-      
-        
-      
-     
+      <ListaDeCompras />
     </div>
+
   );
 }
 
